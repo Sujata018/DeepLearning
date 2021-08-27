@@ -1,7 +1,7 @@
 # DeepLearning
 Code and results for Deep Learning, using TensorFlow.
 
-### Package classification
+### Package: classification
 <table>
   <tr>
     <th>Source</th>
